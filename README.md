@@ -1,5 +1,5 @@
 
-# Frontend Mentor - Fylo data storage component solution
+# Frontend Mentor - Results summary component solution
 This is a solution to the "Results summary component" challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
 
 
@@ -11,7 +11,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 Your users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
--See hover and focus states for all interactive elements on the page
+- See hover and focus states for all interactive elements on the page
 ## Screenshots
 #### 1440px
 ![App Screenshot](./screenshots/Screenshot_desktop.png)
